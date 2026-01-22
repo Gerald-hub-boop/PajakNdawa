@@ -1,5 +1,0 @@
-name = "taxmanager-indonesia"
-compatibility_date = "2026-01-22"
-
-[site]
-bucket = "./dist"
