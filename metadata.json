@@ -1,0 +1,5 @@
+{
+  "name": "TaxManager Indonesia (MVP)",
+  "description": "Aplikasi manajemen pajak internal sederhana untuk PPh 21, PPh 23, dan PPN. Dibuat untuk edukasi dan penggunaan internal UMKM.",
+  "requestFramePermissions": []
+}
